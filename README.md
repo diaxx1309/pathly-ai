@@ -1,10 +1,25 @@
 # pathly-ai
-one place for many path
+# PATHLY AI – Student Recommendation System
 
-prototype that helps students choose best exams and explore college option using ML based reccomendation.
+This project recommends suitable exams and college types for students based on academic and interest-related features using Machine Learning.
 
-modules:
-1.Student profiler
-2.Exam Mapper
-3.College Recommender
-4.Streamlit Interface
+## Features
+- Marks
+- Stream
+- Interest
+
+## Target Outputs
+- Recommended Exam
+- Suggested College Type
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+## How to Run
+1. Open the notebook `PATHLY_AI.ipynb`
+2. Run all cells in order
+3. View predictions in output cells
+
