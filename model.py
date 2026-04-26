@@ -1,7 +1,8 @@
+import streamlite as st
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
-
+@st.cache_resource 
 def train_model():
     data = pd.read_csv("data.csv")
 
