@@ -1,8 +1,9 @@
-import streamlite as st
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
-@st.cache_resource 
+import streamlit as st
+
+@st.cache_resource
 def train_model():
     data = pd.read_csv("data.csv")
 
@@ -26,6 +27,7 @@ def train_model():
     exam_model.fit(X, y_exam)
     college_model.fit(X, y_college)
 
-    exam_acc=round(exam_model.score(X, y_exam)*100, 2)
-            college_acc= round(colege_model.score(X,y_college)*100 ,2)
+    exam_acc = round(exam_model.score(X, y_exam) * 100, 2)
+    college_acc = round(college_model.score(X, y_college) * 100, 2)
+
     return exam_model, college_model, le_stream, le_interest, le_exam, le_college, exam_acc, college_acc
