@@ -3,6 +3,7 @@
 
 This project recommends suitable exams and college types for students based on academic and interest-related features using Machine Learning.
 
+🚀live demo: https://pathly-ai-gc6euf7zm4jg6g67xracez.streamlit.app/
 ## Features
 - Marks
 - Stream
