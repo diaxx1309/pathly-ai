@@ -5,8 +5,8 @@ st.set_page_config(page_title="PATHLY AI", page_icon="🎓")
 
 st.title("🎓 PATHLY AI")
 st.subheader("Personalized Learning & Career Recommendation System")
-st.caption(f"Model Accuracy - Exam:{exam_acc}% | college: {college_acc}%") 
 exam_model, college_model, le_stream, le_interest, le_exam, le_college, exam_acc, college_acc = train_model()
+st.caption(f"Model Accuracy - Exam:{exam_acc}% | college: {college_acc}%") 
 
 marks = st.slider("Enter your marks (%)", 40, 100, 75)
 stream = st.selectbox("Select Stream", ["Science", "Commerce", "Arts"])
