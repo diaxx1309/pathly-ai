@@ -26,4 +26,6 @@ def train_model():
     exam_model.fit(X, y_exam)
     college_model.fit(X, y_college)
 
-    return exam_model, college_model, le_stream, le_interest, le_exam, le_college
+    exam_acc=round(exam_model.score(X, y_exam)*100, 2)
+            college_acc= round(colege_model.score(X,y_college)*100 ,2)
+    return exam_model, college_model, le_stream, le_interest, le_exam, le_college, exam_acc, college_acc
