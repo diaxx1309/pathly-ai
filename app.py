@@ -32,6 +32,14 @@ if st.button("Get My Career Path 🚀"):
     st.write("🏫 Suggested College Type:", college_result)
 
     st.info("📚 Learning Path")
-    st.write("- Strengthen basics of your stream")
-    st.write("- Practice exam-level questions")
-    st.write("- Learn skill-based courses")
+    learning_paths={
+        "JEE":["Focus on physics, chemistry, maths","practice previous year JEE paper ✨", "USE platforms like khan academy, unacaedemy, physics wallah and many more on youtube(if u want to go for free)","or you can take paind coachinge to be consistent"],
+        "NEET":["Focus on biology, chemistry","📃practice neet MCQs daily", "USE NCERT as your BIBLE😭"],
+        "CAT" :["work on quant, VARC, DILR","📃take mock CATs weekly" ,"💼Read business newspapers daily"],
+        "CLAT" :["⚖️Focus on legal reasoning & GK", "read newspapers which u feel is good","📃practice previous CLAT papers"],
+        "NIFT" : ["Build your design portfolio🎨","✏️practice sketch daily"," study fashion history & trends👗"],
+    } 
+    path = learning_paths.get(exam_result, ["📚'strengthen your stream basics", "📃 practice exam-level questions","💻 learn skill based course online"])
+
+     for tip in path: 
+            st.write("-", tip)
