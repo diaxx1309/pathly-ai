@@ -26,10 +26,14 @@ if st.button("Get My Career Path 🚀"):
 
     exam_result = le_exam.inverse_transform(exam_pred)[0]
     college_result = le_college.inverse_transform(college_pred)[0]
+    exam_conf = round(max(exam_model.predict_proba(prediction_input)[0]) * 100, 2)
+    college_conf = round(max(college_model.predict_proba(prediction_input)[0]) * 100, 2)
 
     st.success("🎯 Recommended Career Path")
     st.write("📘 Recommended Exam:", exam_result)
     st.write("🏫 Suggested College Type:", college_result)
+    st.write(f"📘 Recommended Exam: {exam_result} ({exam_conf}% match)")
+    st.write(f"🏫 Suggested College Type: {college_result} ({college_conf}% match)") 
 
     st.info("📚 Learning Path")
     learning_paths={
