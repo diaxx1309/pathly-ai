@@ -40,6 +40,5 @@ if st.button("Get My Career Path 🚀"):
         "NIFT" : ["Build your design portfolio🎨","✏️practice sketch daily"," study fashion history & trends👗"],
     } 
     path = learning_paths.get(exam_result, ["📚'strengthen your stream basics", "📃 practice exam-level questions","💻 learn skill based course online"])
-
-     for tip in path: 
-            st.write("-", tip)
+    for tip in path: 
+        st.write("-", tip)
