@@ -260,12 +260,10 @@ st.markdown(f"""
     <p class="hero-tagline">Know your path before it's too late.</p>
     <p class="hero-story">
         SUP😏!!
-            Finishing class 12th without a plan is lowkey a nightmare😭....
-            what EXAMS!!??.....what COLLEGES!!??....
-            no cap, we all face the same problem,this is when we get major jump scare😔!!
-            but hey😃!!
-            i got ya..i have cooked something for u just do as instructed down here and see where u grindin' next!!
-            We are here for u homie...so u dont have to wing it alone😜
+           Finishing Class 12 without a plan is lowkey a nightmare. What exams? What colleges? No cap, it's a major jump scare.💀
+
+            But hey!! I got ya. I've cooked up Pathly Al to lock in your future. 
+            Just follow the steps below and see where you'll be grindin' next. We're here so you don't have to wing it alone.✨
     </p>
     <div class="stats">
         <div class="stat-item">
