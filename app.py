@@ -261,7 +261,6 @@ st.markdown(f"""
     <p class="hero-story">
         SUP😏!!
            Finishing Class 12 without a plan is lowkey a nightmare. What exams? What colleges? No cap, it's a major jump scare.💀
-
             But hey!! I got ya. I've cooked up Pathly Al to lock in your future. 
             Just follow the steps below and see where you'll be grindin' next. We're here so you don't have to wing it alone.✨
     </p>
