@@ -1,0 +1,721 @@
+marks,stream,interest,exam,college
+96,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+87,Science,Computer Science,JEE,Engineering College
+70,Science,Biology,NEET,Private Medical College
+92,Science,Architecture,JEE,Architecture College
+76,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+73,Commerce,Management,CAT,Business School
+66,Commerce,Accounting,CA,Commerce College
+80,Commerce,Economics,CUET,Economics College
+70,Arts,Law,CLAT,Law University
+53,Arts,Design,NIFT,Design Institute
+62,Arts,Mass Media,CUET,Mass Media College
+47,Arts,Psychology,CUET,Psychology College
+51,Arts,Fine Arts,NIFT,Fine Arts College
+67,Arts,Hotel Management,NCHMCT,Hotel Management College
+76,Science,Pharmacy,GPAT,Pharmacy College
+60,Commerce,Hotel Management,NCHMCT,Hotel Management College
+91,Science,Engineering,JEE,Top IIT/NIT
+84,Science,Medical,NEET,Government Medical College
+75,Science,Computer Science,JEE,Engineering College
+71,Science,Biology,NEET,Private Medical College
+94,Science,Architecture,JEE,Architecture College
+81,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+71,Commerce,Management,CAT,Business School
+70,Commerce,Accounting,CA,Commerce College
+80,Commerce,Economics,CUET,Economics College
+69,Arts,Law,CLAT,Law University
+65,Arts,Design,CAT,Design Institute
+69,Arts,Mass Media,CUET,Mass Media College
+59,Arts,Psychology,CUET,Psychology College
+68,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NCHMCT,Hotel Management College
+71,Science,Pharmacy,GPAT,Pharmacy College
+57,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+82,Science,Medical,NEET,Government Medical College
+81,Science,Computer Science,JEE,Engineering College
+64,Science,Biology,NEET,Private Medical College
+93,Science,Architecture,JEE,Architecture College
+76,Commerce,Business,CAT,Business School
+66,Commerce,Finance,CA,CA Coaching Institute
+58,Commerce,Management,CAT,Business School
+68,Commerce,Accounting,CUET,Commerce College
+81,Commerce,Economics,CUET,Economics College
+73,Arts,Law,CLAT,Law University
+67,Arts,Design,NIFT,Design Institute
+63,Arts,Mass Media,CUET,Mass Media College
+46,Arts,Psychology,NEET,Psychology College
+64,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NIFT,Hotel Management College
+71,Science,Pharmacy,GPAT,Pharmacy College
+66,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+82,Science,Medical,NEET,Government Medical College
+88,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,CLAT,Private Medical College
+88,Science,Architecture,JEE,Architecture College
+87,Commerce,Business,CAT,Business School
+72,Commerce,Finance,CA,CA Coaching Institute
+58,Commerce,Management,CAT,Business School
+61,Commerce,Accounting,CA,Commerce College
+83,Commerce,Economics,CUET,Economics College
+65,Arts,Law,CUET,Law University
+59,Arts,Design,CUET,Design Institute
+58,Arts,Mass Media,CUET,Mass Media College
+62,Arts,Psychology,CUET,Psychology College
+61,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,NCHMCT,Hotel Management College
+74,Science,Pharmacy,GPAT,Pharmacy College
+58,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+68,Science,Biology,NEET,Private Medical College
+92,Science,Architecture,JEE,Architecture College
+85,Commerce,Business,CAT,Business School
+77,Commerce,Finance,CA,CA Coaching Institute
+72,Commerce,Management,CAT,Business School
+64,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+72,Arts,Law,CLAT,Law University
+58,Arts,Design,NIFT,Design Institute
+69,Arts,Mass Media,CUET,Mass Media College
+57,Arts,Psychology,CUET,Psychology College
+50,Arts,Fine Arts,NIFT,Fine Arts College
+68,Arts,Hotel Management,NCHMCT,Hotel Management College
+71,Science,Pharmacy,GPAT,Pharmacy College
+63,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,NCHMCT,Top IIT/NIT
+80,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+67,Science,Biology,NEET,Private Medical College
+92,Science,Architecture,JEE,Architecture College
+80,Commerce,Business,CAT,Business School
+67,Commerce,Finance,CA,CA Coaching Institute
+71,Commerce,Management,CAT,Business School
+67,Commerce,Accounting,CA,Commerce College
+72,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+50,Arts,Design,NIFT,Design Institute
+59,Arts,Mass Media,CUET,Mass Media College
+54,Arts,Psychology,CUET,Psychology College
+56,Arts,Fine Arts,GPAT,Fine Arts College
+69,Arts,Hotel Management,NCHMCT,Hotel Management College
+73,Science,Pharmacy,GPAT,Pharmacy College
+61,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+61,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+85,Commerce,Business,CAT,Business School
+71,Commerce,Finance,CA,CA Coaching Institute
+59,Commerce,Management,CAT,Business School
+62,Commerce,Accounting,CA,Commerce College
+81,Commerce,Economics,CUET,Economics College
+67,Arts,Law,CLAT,Law University
+52,Arts,Design,NIFT,Design Institute
+55,Arts,Mass Media,CUET,Mass Media College
+47,Arts,Psychology,CUET,Psychology College
+54,Arts,Fine Arts,NIFT,Fine Arts College
+73,Arts,Hotel Management,GPAT,Hotel Management College
+67,Science,Pharmacy,GPAT,Pharmacy College
+55,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+88,Science,Computer Science,JEE,Engineering College
+66,Science,Biology,NEET,Private Medical College
+93,Science,Architecture,JEE,Architecture College
+84,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+64,Commerce,Management,CAT,Business School
+71,Commerce,Accounting,CA,Commerce College
+82,Commerce,Economics,CUET,Economics College
+78,Arts,Law,CLAT,Law University
+56,Arts,Design,NIFT,Design Institute
+71,Arts,Mass Media,CUET,Mass Media College
+48,Arts,Psychology,CUET,Psychology College
+54,Arts,Fine Arts,NIFT,Fine Arts College
+66,Arts,Hotel Management,CUET,Hotel Management College
+71,Science,Pharmacy,GPAT,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+85,Science,Computer Science,JEE,Engineering College
+62,Science,Biology,NEET,Private Medical College
+90,Science,Architecture,JEE,Architecture College
+71,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+67,Commerce,Management,CAT,Business School
+73,Commerce,Accounting,CA,Commerce College
+78,Commerce,Economics,CUET,Economics College
+65,Arts,Law,CLAT,Law University
+61,Arts,Design,NIFT,Design Institute
+66,Arts,Mass Media,CUET,Mass Media College
+55,Arts,Psychology,CUET,Psychology College
+56,Arts,Fine Arts,NIFT,Fine Arts College
+73,Arts,Hotel Management,GPAT,Hotel Management College
+65,Science,Pharmacy,GPAT,Pharmacy College
+55,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+88,Science,Medical,NEET,Government Medical College
+78,Science,Computer Science,JEE,Engineering College
+72,Science,Biology,NEET,Private Medical College
+93,Science,Architecture,JEE,Architecture College
+72,Commerce,Business,CAT,Business School
+71,Commerce,Finance,CAT,CA Coaching Institute
+60,Commerce,Management,CLAT,Business School
+67,Commerce,Accounting,CA,Commerce College
+80,Commerce,Economics,CUET,Economics College
+68,Arts,Law,CLAT,Law University
+54,Arts,Design,NIFT,Design Institute
+55,Arts,Mass Media,CUET,Mass Media College
+63,Arts,Psychology,NCHMCT,Psychology College
+59,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NCHMCT,Hotel Management College
+72,Science,Pharmacy,GPAT,Pharmacy College
+69,Commerce,Hotel Management,NCHMCT,Hotel Management College
+95,Science,Engineering,NCHMCT,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+83,Science,Computer Science,JEE,Engineering College
+63,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,NCHMCT,Architecture College
+86,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+66,Commerce,Management,CAT,Business School
+73,Commerce,Accounting,CA,Commerce College
+76,Commerce,Economics,CUET,Economics College
+61,Arts,Law,NCHMCT,Law University
+52,Arts,Design,NIFT,Design Institute
+71,Arts,Mass Media,CAT,Mass Media College
+49,Arts,Psychology,CUET,Psychology College
+66,Arts,Fine Arts,NIFT,Fine Arts College
+67,Arts,Hotel Management,NCHMCT,Hotel Management College
+65,Science,Pharmacy,GPAT,Pharmacy College
+71,Commerce,Hotel Management,NCHMCT,Hotel Management College
+91,Science,Engineering,NIFT,Top IIT/NIT
+81,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+65,Science,Biology,NEET,Private Medical College
+91,Science,Architecture,CLAT,Architecture College
+74,Commerce,Business,CAT,Business School
+65,Commerce,Finance,CA,CA Coaching Institute
+55,Commerce,Management,CAT,Business School
+62,Commerce,Accounting,CA,Commerce College
+83,Commerce,Economics,CUET,Economics College
+61,Arts,Law,CLAT,Law University
+61,Arts,Design,NIFT,Design Institute
+60,Arts,Mass Media,CUET,Mass Media College
+48,Arts,Psychology,CUET,Psychology College
+60,Arts,Fine Arts,NIFT,Fine Arts College
+67,Arts,Hotel Management,NCHMCT,Hotel Management College
+75,Science,Pharmacy,GPAT,Pharmacy College
+71,Commerce,Hotel Management,NCHMCT,Hotel Management College
+95,Science,Engineering,JEE,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+79,Science,Computer Science,JEE,Engineering College
+63,Science,Biology,CA,Private Medical College
+86,Science,Architecture,JEE,Architecture College
+75,Commerce,Business,CAT,Business School
+70,Commerce,Finance,CA,CA Coaching Institute
+65,Commerce,Management,CAT,Business School
+60,Commerce,Accounting,CA,Commerce College
+78,Commerce,Economics,CUET,Economics College
+65,Arts,Law,NCHMCT,Law University
+65,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,CUET,Mass Media College
+48,Arts,Psychology,CUET,Psychology College
+68,Arts,Fine Arts,NIFT,Fine Arts College
+69,Arts,Hotel Management,GPAT,Hotel Management College
+67,Science,Pharmacy,GPAT,Pharmacy College
+73,Commerce,Hotel Management,NCHMCT,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+78,Science,Computer Science,JEE,Engineering College
+68,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+77,Commerce,Business,GPAT,Business School
+71,Commerce,Finance,JEE,CA Coaching Institute
+72,Commerce,Management,CAT,Business School
+67,Commerce,Accounting,CA,Commerce College
+70,Commerce,Economics,CUET,Economics College
+70,Arts,Law,CA,Law University
+67,Arts,Design,NIFT,Design Institute
+64,Arts,Mass Media,CUET,Mass Media College
+47,Arts,Psychology,CUET,Psychology College
+56,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NCHMCT,Hotel Management College
+74,Science,Pharmacy,GPAT,Pharmacy College
+70,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,NEET,Private Medical College
+86,Science,Architecture,JEE,Architecture College
+70,Commerce,Business,CAT,Business School
+78,Commerce,Finance,CA,CA Coaching Institute
+66,Commerce,Management,CAT,Business School
+64,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,GPAT,Economics College
+68,Arts,Law,CLAT,Law University
+58,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,CUET,Mass Media College
+63,Arts,Psychology,CUET,Psychology College
+65,Arts,Fine Arts,NIFT,Fine Arts College
+62,Arts,Hotel Management,NCHMCT,Hotel Management College
+68,Science,Pharmacy,CLAT,Pharmacy College
+55,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+85,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,NEET,Private Medical College
+92,Science,Architecture,JEE,Architecture College
+73,Commerce,Business,CAT,Business School
+70,Commerce,Finance,CA,CA Coaching Institute
+62,Commerce,Management,CAT,Business School
+63,Commerce,Accounting,NCHMCT,Commerce College
+83,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+65,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,CUET,Mass Media College
+62,Arts,Psychology,CUET,Psychology College
+63,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,NCHMCT,Hotel Management College
+66,Science,Pharmacy,GPAT,Pharmacy College
+57,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+75,Science,Computer Science,JEE,Engineering College
+63,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+83,Commerce,Business,CAT,Business School
+69,Commerce,Finance,CA,CA Coaching Institute
+70,Commerce,Management,CAT,Business School
+63,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+67,Arts,Law,CLAT,Law University
+56,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,CUET,Mass Media College
+61,Arts,Psychology,CUET,Psychology College
+50,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NCHMCT,Hotel Management College
+75,Science,Pharmacy,GPAT,Pharmacy College
+73,Commerce,Hotel Management,NCHMCT,Hotel Management College
+95,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+80,Science,Computer Science,JEE,Engineering College
+73,Science,Biology,NEET,Private Medical College
+90,Science,Architecture,JEE,Architecture College
+75,Commerce,Business,CAT,Business School
+77,Commerce,Finance,CA,CA Coaching Institute
+73,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+61,Arts,Law,CA,Law University
+50,Arts,Design,NIFT,Design Institute
+69,Arts,Mass Media,CUET,Mass Media College
+45,Arts,Psychology,CUET,Psychology College
+54,Arts,Fine Arts,NIFT,Fine Arts College
+71,Arts,Hotel Management,NCHMCT,Hotel Management College
+77,Science,Pharmacy,GPAT,Pharmacy College
+70,Commerce,Hotel Management,NCHMCT,Hotel Management College
+92,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+77,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+81,Commerce,Business,CAT,Business School
+76,Commerce,Finance,NCHMCT,CA Coaching Institute
+68,Commerce,Management,CAT,Business School
+64,Commerce,Accounting,CA,Commerce College
+75,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+58,Arts,Design,NIFT,Design Institute
+59,Arts,Mass Media,CUET,Mass Media College
+61,Arts,Psychology,CUET,Psychology College
+63,Arts,Fine Arts,NIFT,Fine Arts College
+64,Arts,Hotel Management,NCHMCT,Hotel Management College
+67,Science,Pharmacy,GPAT,Pharmacy College
+55,Commerce,Hotel Management,NEET,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+84,Science,Medical,NEET,Government Medical College
+81,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,NEET,Private Medical College
+87,Science,Architecture,JEE,Architecture College
+87,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+64,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+79,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+57,Arts,Design,NIFT,Design Institute
+68,Arts,Mass Media,CUET,Mass Media College
+62,Arts,Psychology,CUET,Psychology College
+64,Arts,Fine Arts,NIFT,Fine Arts College
+65,Arts,Hotel Management,NCHMCT,Hotel Management College
+71,Science,Pharmacy,CA,Pharmacy College
+56,Commerce,Hotel Management,NCHMCT,Hotel Management College
+99,Science,Engineering,JEE,Top IIT/NIT
+81,Science,Medical,NEET,Government Medical College
+84,Science,Computer Science,JEE,Engineering College
+60,Science,Biology,NEET,Private Medical College
+92,Science,Architecture,JEE,Architecture College
+70,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+65,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+76,Commerce,Economics,CUET,Economics College
+69,Arts,Law,CLAT,Law University
+52,Arts,Design,NIFT,Design Institute
+72,Arts,Mass Media,CUET,Mass Media College
+57,Arts,Psychology,CUET,Psychology College
+56,Arts,Fine Arts,GPAT,Fine Arts College
+68,Arts,Hotel Management,NCHMCT,Hotel Management College
+68,Science,Pharmacy,GPAT,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+80,Science,Medical,CLAT,Government Medical College
+82,Science,Computer Science,JEE,Engineering College
+73,Science,Biology,NEET,Private Medical College
+87,Science,Architecture,JEE,Architecture College
+84,Commerce,Business,CAT,Business School
+76,Commerce,Finance,CA,CA Coaching Institute
+56,Commerce,Management,CAT,Business School
+61,Commerce,Accounting,NEET,Commerce College
+76,Commerce,Economics,CUET,Economics College
+78,Arts,Law,CLAT,Law University
+66,Arts,Design,NIFT,Design Institute
+64,Arts,Mass Media,CUET,Mass Media College
+50,Arts,Psychology,CUET,Psychology College
+64,Arts,Fine Arts,CAT,Fine Arts College
+65,Arts,Hotel Management,NCHMCT,Hotel Management College
+75,Science,Pharmacy,CUET,Pharmacy College
+59,Commerce,Hotel Management,NCHMCT,Hotel Management College
+90,Science,Engineering,JEE,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+79,Science,Computer Science,JEE,Engineering College
+71,Science,Biology,NEET,Private Medical College
+89,Science,Architecture,JEE,Architecture College
+76,Commerce,Business,CAT,Business School
+68,Commerce,Finance,CA,CA Coaching Institute
+60,Commerce,Management,CAT,Business School
+72,Commerce,Accounting,CA,Commerce College
+73,Commerce,Economics,CUET,Economics College
+74,Arts,Law,CLAT,Law University
+52,Arts,Design,NIFT,Design Institute
+62,Arts,Mass Media,CUET,Mass Media College
+60,Arts,Psychology,CUET,Psychology College
+62,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,NCHMCT,Hotel Management College
+76,Science,Pharmacy,GPAT,Pharmacy College
+64,Commerce,Hotel Management,NCHMCT,Hotel Management College
+92,Science,Engineering,CAT,Top IIT/NIT
+80,Science,Medical,NEET,Government Medical College
+82,Science,Computer Science,JEE,Engineering College
+62,Science,Biology,NEET,Private Medical College
+94,Science,Architecture,JEE,Architecture College
+74,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CAT,CA Coaching Institute
+63,Commerce,Management,CAT,Business School
+71,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,CUET,Economics College
+60,Arts,Law,CLAT,Law University
+50,Arts,Design,NIFT,Design Institute
+69,Arts,Mass Media,CUET,Mass Media College
+46,Arts,Psychology,CUET,Psychology College
+65,Arts,Fine Arts,NIFT,Fine Arts College
+68,Arts,Hotel Management,NCHMCT,Hotel Management College
+72,Science,Pharmacy,GPAT,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+80,Science,Medical,NEET,Government Medical College
+87,Science,Computer Science,JEE,Engineering College
+66,Science,Biology,NEET,Private Medical College
+89,Science,Architecture,JEE,Architecture College
+72,Commerce,Business,CAT,Business School
+76,Commerce,Finance,CA,CA Coaching Institute
+70,Commerce,Management,CAT,Business School
+62,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,CUET,Economics College
+73,Arts,Law,CLAT,Law University
+54,Arts,Design,NIFT,Design Institute
+69,Arts,Mass Media,CUET,Mass Media College
+61,Arts,Psychology,CUET,Psychology College
+63,Arts,Fine Arts,NIFT,Fine Arts College
+73,Arts,Hotel Management,NCHMCT,Hotel Management College
+68,Science,Pharmacy,GPAT,Pharmacy College
+59,Commerce,Hotel Management,NCHMCT,Hotel Management College
+99,Science,Engineering,JEE,Top IIT/NIT
+84,Science,Medical,NEET,Government Medical College
+81,Science,Computer Science,JEE,Engineering College
+63,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+74,Commerce,Business,CLAT,Business School
+71,Commerce,Finance,CA,CA Coaching Institute
+64,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,CUET,Economics College
+63,Arts,Law,CLAT,Law University
+51,Arts,Design,NIFT,Design Institute
+64,Arts,Mass Media,CUET,Mass Media College
+63,Arts,Psychology,JEE,Psychology College
+50,Arts,Fine Arts,NIFT,Fine Arts College
+67,Arts,Hotel Management,NCHMCT,Hotel Management College
+69,Science,Pharmacy,NEET,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+81,Science,Computer Science,JEE,Engineering College
+61,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+81,Commerce,Business,CAT,Business School
+66,Commerce,Finance,CA,CA Coaching Institute
+57,Commerce,Management,CAT,Business School
+71,Commerce,Accounting,CA,Commerce College
+70,Commerce,Economics,CUET,Economics College
+60,Arts,Law,CLAT,Law University
+68,Arts,Design,NIFT,Design Institute
+65,Arts,Mass Media,CUET,Mass Media College
+49,Arts,Psychology,CUET,Psychology College
+61,Arts,Fine Arts,NIFT,Fine Arts College
+62,Arts,Hotel Management,NCHMCT,Hotel Management College
+65,Science,Pharmacy,GPAT,Pharmacy College
+55,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+81,Science,Medical,NEET,Government Medical College
+87,Science,Computer Science,GPAT,Engineering College
+62,Science,Biology,CAT,Private Medical College
+86,Science,Architecture,JEE,Architecture College
+72,Commerce,Business,CAT,Business School
+71,Commerce,Finance,CA,CA Coaching Institute
+71,Commerce,Management,CAT,Business School
+69,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+69,Arts,Law,CLAT,Law University
+51,Arts,Design,NIFT,Design Institute
+73,Arts,Mass Media,CUET,Mass Media College
+53,Arts,Psychology,CUET,Psychology College
+56,Arts,Fine Arts,NIFT,Fine Arts College
+63,Arts,Hotel Management,NCHMCT,Hotel Management College
+74,Science,Pharmacy,GPAT,Pharmacy College
+72,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,NCHMCT,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+83,Science,Computer Science,JEE,Engineering College
+64,Science,Biology,NEET,Private Medical College
+93,Science,Architecture,JEE,Architecture College
+73,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+59,Commerce,Management,CAT,Business School
+68,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+66,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,CA,Mass Media College
+60,Arts,Psychology,CUET,Psychology College
+53,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,NCHMCT,Hotel Management College
+65,Science,Pharmacy,GPAT,Pharmacy College
+61,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+88,Science,Computer Science,JEE,Engineering College
+64,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+82,Commerce,Business,CAT,Business School
+71,Commerce,Finance,GPAT,CA Coaching Institute
+57,Commerce,Management,CAT,Business School
+68,Commerce,Accounting,CA,Commerce College
+83,Commerce,Economics,CUET,Economics College
+76,Arts,Law,CLAT,Law University
+66,Arts,Design,NIFT,Design Institute
+70,Arts,Mass Media,CUET,Mass Media College
+57,Arts,Psychology,CUET,Psychology College
+68,Arts,Fine Arts,NIFT,Fine Arts College
+60,Arts,Hotel Management,NCHMCT,Hotel Management College
+68,Science,Pharmacy,GPAT,Pharmacy College
+66,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+82,Science,Medical,NEET,Government Medical College
+86,Science,Computer Science,JEE,Engineering College
+68,Science,Biology,NEET,Private Medical College
+91,Science,Architecture,JEE,Architecture College
+83,Commerce,Business,CAT,Business School
+68,Commerce,Finance,CA,CA Coaching Institute
+73,Commerce,Management,CAT,Business School
+69,Commerce,Accounting,JEE,Commerce College
+74,Commerce,Economics,CUET,Economics College
+64,Arts,Law,CLAT,Law University
+52,Arts,Design,NIFT,Design Institute
+66,Arts,Mass Media,CUET,Mass Media College
+48,Arts,Psychology,CUET,Psychology College
+65,Arts,Fine Arts,CUET,Fine Arts College
+68,Arts,Hotel Management,NCHMCT,Hotel Management College
+71,Science,Pharmacy,GPAT,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+88,Science,Computer Science,JEE,Engineering College
+69,Science,Biology,NEET,Private Medical College
+89,Science,Architecture,JEE,Architecture College
+72,Commerce,Business,CAT,Business School
+71,Commerce,Finance,CA,CA Coaching Institute
+65,Commerce,Management,CAT,Business School
+70,Commerce,Accounting,CA,Commerce College
+71,Commerce,Economics,NEET,Economics College
+74,Arts,Law,CLAT,Law University
+61,Arts,Design,NIFT,Design Institute
+63,Arts,Mass Media,CUET,Mass Media College
+54,Arts,Psychology,CUET,Psychology College
+61,Arts,Fine Arts,NIFT,Fine Arts College
+60,Arts,Hotel Management,NCHMCT,Hotel Management College
+77,Science,Pharmacy,GPAT,Pharmacy College
+60,Commerce,Hotel Management,CLAT,Hotel Management College
+96,Science,Engineering,JEE,Top IIT/NIT
+87,Science,Medical,NEET,Government Medical College
+84,Science,Computer Science,JEE,Engineering College
+68,Science,Biology,NEET,Private Medical College
+86,Science,Architecture,JEE,Architecture College
+71,Commerce,Business,CAT,Business School
+69,Commerce,Finance,CA,CA Coaching Institute
+59,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+72,Commerce,Economics,CUET,Economics College
+67,Arts,Law,JEE,Law University
+65,Arts,Design,NIFT,Design Institute
+67,Arts,Mass Media,CUET,Mass Media College
+45,Arts,Psychology,CUET,Psychology College
+66,Arts,Fine Arts,NIFT,Fine Arts College
+66,Arts,Hotel Management,CUET,Hotel Management College
+73,Science,Pharmacy,CAT,Pharmacy College
+67,Commerce,Hotel Management,NCHMCT,Hotel Management College
+93,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+80,Science,Computer Science,JEE,Engineering College
+71,Science,Biology,NEET,Private Medical College
+87,Science,Architecture,JEE,Architecture College
+81,Commerce,Business,NEET,Business School
+70,Commerce,Finance,CA,CA Coaching Institute
+61,Commerce,Management,NCHMCT,Business School
+70,Commerce,Accounting,CA,Commerce College
+79,Commerce,Economics,CUET,Economics College
+78,Arts,Law,CLAT,Law University
+56,Arts,Design,NIFT,Design Institute
+57,Arts,Mass Media,GPAT,Mass Media College
+57,Arts,Psychology,CUET,Psychology College
+62,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,CUET,Hotel Management College
+76,Science,Pharmacy,GPAT,Pharmacy College
+62,Commerce,Hotel Management,NCHMCT,Hotel Management College
+98,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+75,Science,Computer Science,JEE,Engineering College
+62,Science,Biology,NEET,Private Medical College
+93,Science,Architecture,JEE,Architecture College
+86,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+55,Commerce,Management,CAT,Business School
+65,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,CUET,Economics College
+65,Arts,Law,GPAT,Law University
+61,Arts,Design,NIFT,Design Institute
+67,Arts,Mass Media,CUET,Mass Media College
+57,Arts,Psychology,CUET,Psychology College
+64,Arts,Fine Arts,NIFT,Fine Arts College
+64,Arts,Hotel Management,NCHMCT,Hotel Management College
+70,Science,Pharmacy,GPAT,Pharmacy College
+65,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+83,Science,Medical,NEET,Government Medical College
+77,Science,Computer Science,JEE,Engineering College
+62,Science,Biology,NEET,Private Medical College
+88,Science,Architecture,JEE,Architecture College
+87,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+71,Commerce,Management,CAT,Business School
+73,Commerce,Accounting,CA,Commerce College
+70,Commerce,Economics,CUET,Economics College
+62,Arts,Law,CLAT,Law University
+65,Arts,Design,NIFT,Design Institute
+65,Arts,Mass Media,CUET,Mass Media College
+56,Arts,Psychology,CUET,Psychology College
+59,Arts,Fine Arts,NIFT,Fine Arts College
+67,Arts,Hotel Management,NCHMCT,Hotel Management College
+70,Science,Pharmacy,GPAT,Pharmacy College
+66,Commerce,Hotel Management,NCHMCT,Hotel Management College
+97,Science,Engineering,JEE,Top IIT/NIT
+84,Science,Medical,NEET,Government Medical College
+82,Science,Computer Science,NEET,Engineering College
+69,Science,Biology,NEET,Private Medical College
+88,Science,Architecture,JEE,Architecture College
+77,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+72,Commerce,Management,CAT,Business School
+71,Commerce,Accounting,CA,Commerce College
+81,Commerce,Economics,CUET,Economics College
+64,Arts,Law,CLAT,Law University
+58,Arts,Design,NCHMCT,Design Institute
+58,Arts,Mass Media,CUET,Mass Media College
+61,Arts,Psychology,CUET,Psychology College
+58,Arts,Fine Arts,NIFT,Fine Arts College
+60,Arts,Hotel Management,NIFT,Hotel Management College
+69,Science,Pharmacy,GPAT,Pharmacy College
+67,Commerce,Hotel Management,NEET,Hotel Management College
+92,Science,Engineering,JEE,Top IIT/NIT
+85,Science,Medical,NEET,Government Medical College
+76,Science,Computer Science,JEE,Engineering College
+62,Science,Biology,NEET,Private Medical College
+89,Science,Architecture,JEE,Architecture College
+84,Commerce,Business,CAT,Business School
+73,Commerce,Finance,CA,CA Coaching Institute
+56,Commerce,Management,CAT,Business School
+69,Commerce,Accounting,CA,Commerce College
+77,Commerce,Economics,CUET,Economics College
+77,Arts,Law,CLAT,Law University
+62,Arts,Design,NIFT,Design Institute
+59,Arts,Mass Media,CUET,Mass Media College
+45,Arts,Psychology,CUET,Psychology College
+50,Arts,Fine Arts,NIFT,Fine Arts College
+61,Arts,Hotel Management,NCHMCT,Hotel Management College
+65,Science,Pharmacy,JEE,Pharmacy College
+65,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+88,Science,Medical,NEET,Government Medical College
+80,Science,Computer Science,JEE,Engineering College
+70,Science,Biology,NEET,Private Medical College
+85,Science,Architecture,JEE,Architecture College
+82,Commerce,Business,CAT,Business School
+65,Commerce,Finance,CA,CA Coaching Institute
+56,Commerce,Management,CAT,Business School
+68,Commerce,Accounting,CA,Commerce College
+72,Commerce,Economics,CUET,Economics College
+60,Arts,Law,CLAT,Law University
+65,Arts,Design,NIFT,Design Institute
+60,Arts,Mass Media,CUET,Mass Media College
+61,Arts,Psychology,CUET,Psychology College
+54,Arts,Fine Arts,NIFT,Fine Arts College
+64,Arts,Hotel Management,NCHMCT,Hotel Management College
+70,Science,Pharmacy,GPAT,Pharmacy College
+57,Commerce,Hotel Management,NCHMCT,Hotel Management College
+94,Science,Engineering,JEE,Top IIT/NIT
+86,Science,Medical,NEET,Government Medical College
+79,Science,Computer Science,JEE,Engineering College
+64,Science,Biology,NEET,Private Medical College
+89,Science,Architecture,JEE,Architecture College
+79,Commerce,Business,CAT,Business School
+74,Commerce,Finance,CA,CA Coaching Institute
+73,Commerce,Management,CAT,Business School
+60,Commerce,Accounting,CA,Commerce College
+74,Commerce,Economics,CUET,Economics College
+73,Arts,Law,CLAT,Law University
+58,Arts,Design,NIFT,Design Institute
+68,Arts,Mass Media,CUET,Mass Media College
+45,Arts,Psychology,CUET,Psychology College
+68,Arts,Fine Arts,NIFT,Fine Arts College
+72,Arts,Hotel Management,NCHMCT,Hotel Management College
+77,Science,Pharmacy,GPAT,Pharmacy College
+58,Commerce,Hotel Management,NCHMCT,Hotel Management College
