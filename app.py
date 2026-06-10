@@ -259,9 +259,13 @@ st.markdown(f"""
     <div class="hero-title">PATHLY <span>AI</span></div>
     <p class="hero-tagline">Know your path before it's too late.</p>
     <p class="hero-story">
-        After Class 12, most students don't know what exam to prepare for
-        or which college to target. I built Pathly AI to solve exactly that —
-        so no student has to figure it out alone.
+        SUP😏!!
+            Finishing class 12th without a plan is lowkey a nightmare😭....
+            what EXAMS!!??.....what COLLEGES!!??....
+            no cap, we all face the same problem,this is when we get major jump scare😔!!
+            but hey😃!!
+            i got ya..i have cooked something for u just do as instructed down here and see where u grindin' next!!
+            We are here for u homie...so u dont have to wing it alone😜
     </p>
     <div class="stats">
         <div class="stat-item">
@@ -287,7 +291,7 @@ st.markdown(f"""
 # ── Inputs ──
 st.markdown('<div class="form-label">Tell us about yourself</div>', unsafe_allow_html=True)
 
-marks = st.slider("Your Class 12 Marks (%)", 40, 100, 75)
+marks = st.slider("Your Class 12 Marks (%)",0,40, 100, 75)
 stream = st.selectbox("Your Stream", ["Science", "Commerce", "Arts"])
 interest = st.selectbox("What excites you most?", [
     "Engineering", "Medical", "Computer Science",
@@ -330,22 +334,22 @@ if go:
 
         paths = {
             "JEE": [
-                "Physics, Chemistry, Maths — master fundamentals before shortcuts",
+                "Physics, Chemistry, Maths  master fundamentals before shortcuts",
                 "Solve previous year JEE papers daily from 11th grade itself",
                 "Physics Wallah or Unacademy work well for free/low-cost prep",
                 "Target 85%+ in school exams alongside JEE prep"
             ],
             "NEET": [
-                "NCERT is your actual syllabus — read every line, every diagram",
-                "Practice 50 MCQs daily minimum — speed matters in NEET",
-                "Biology alone is 360 marks — treat it as your scoring subject",
+                "NCERT is your actual syllabus  read every line, every diagram",
+                "Practice 50 MCQs daily minimum  speed matters in NEET",
+                "Biology alone is 360 marks  treat it as your scoring subject",
                 "Start mock tests 6 months before the exam"
             ],
             "CAT": [
-                "Quant, VARC, DILR — all three sections need equal attention",
+                "Quant, VARC, DILR  all three sections need equal attention",
                 "Take one full mock CAT every week without skipping",
                 "Reading editorials daily builds VARC speed over time",
-                "Strong 12th Commerce base helps — don't ignore school"
+                "Strong 12th Commerce base helps  don't ignore school"
             ],
             "CLAT": [
                 "Legal Reasoning and GK are your highest scoring sections",
@@ -355,20 +359,20 @@ if go:
             ],
             "NIFT": [
                 "Your portfolio will matter more than your marks here",
-                "Sketch daily — even 20 minutes builds visual discipline",
+                "Sketch daily even 20 minutes builds visual discipline",
                 "Study fashion history and current global design trends",
-                "Entrance has a situation test — practice creative thinking"
+                "Entrance has a situation test  practice creative thinking"
             ],
             "CA": [
                 "Accountancy fundamentals from Class 11-12 are your foundation",
                 "CA Foundation is cleared with consistent daily practice",
-                "Join a study group early — CA is a long journey",
-                "Don't skip mock tests — time management decides results"
+                "Join a study group early  CA is a long journey",
+                "Don't skip mock tests time management decides results"
             ],
         }
 
         tips = paths.get(exam_result, [
-            "Build strong subject fundamentals — no shortcuts here",
+            "Build strong subject fundamentals  no shortcuts here",
             "Practice past papers to understand what's actually tested",
             "Find 2-3 good online resources and stick to them",
             "Consistency over 12 months beats cramming every time"
