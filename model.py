@@ -29,7 +29,7 @@ def train_model():
         X, y_college, test_size=0.2, random_state=42
     )
 
-    exam_model = DecisionTreeClassifier(max_depth=6, random_state=42)
+    exam_model = DecisionTreeClassifier(max_depth=8, random_state=42)
     college_model = DecisionTreeClassifier(max_depth=7, random_state=42)
 
     exam_model.fit(X_train, y_exam_train)
@@ -39,3 +39,7 @@ def train_model():
     college_acc = round(college_model.score(X_test, y_col_test) * 100, 2)
 
     return exam_model, college_model, le_stream, le_interest, le_exam, le_college, exam_acc, college_acc
+    if __name__ == "__main__":
+    exam_model, college_model, le_stream, le_interest, le_exam, le_college, exam_acc, college_acc = train_model()
+    print("Exam Accuracy:", exam_acc)
+    print("College Accuracy:", college_acc)
