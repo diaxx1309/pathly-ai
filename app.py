@@ -288,7 +288,7 @@ st.markdown(f"""
 # ── Inputs ──
 st.markdown('<div class="form-label">Tell us about yourself</div>', unsafe_allow_html=True)
 
-marks = st.slider("Your Class 12 Marks (%)",0,40, 100, 75)
+marks = st.slider("Your Class 12 Marks (%)",40, 100, 25,55,75,85,95)
 stream = st.selectbox("Your Stream", ["Science", "Commerce", "Arts"])
 interest = st.selectbox("What excites you most?", [
     "Engineering", "Medical", "Computer Science",
